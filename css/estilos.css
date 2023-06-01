@@ -1,0 +1,10 @@
+body {background-color: red;}
+h1 {color: blue}
+.colorete { color: yellow}
+
+body { background-image: url(../imagenes/leo.png );
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-attachment: fixed;
+      background-size: cover;
+    }
